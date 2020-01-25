@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7b60c97-af09-4983-98ba-7e47e7c303c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
       <updated>1575156129440</updated>
       <workItem from="1575156134790" duration="33000" />
       <workItem from="1575157019277" duration="4943000" />
+      <workItem from="1579980030117" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="added second file">
       <created>1575157085341</created>
